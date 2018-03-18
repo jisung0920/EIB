@@ -1,4 +1,4 @@
-package com.example.jisung.eib;
+package com.alpaca.jisung.eib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

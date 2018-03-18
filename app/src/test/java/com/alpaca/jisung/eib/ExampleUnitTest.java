@@ -1,4 +1,4 @@
-package com.example.jisung.eib;
+package com.alpaca.jisung.eib;
 
 import org.junit.Test;
 
